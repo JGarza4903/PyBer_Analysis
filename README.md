@@ -34,8 +34,6 @@ Analysis of Pyber Ride-Share data shows:
 
 ![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
-This data shows the bigger the city, the more drivers you will have to increase revenue.
-
 ----------------------------------------
 * **Total amount of drivers per city type:**
 
@@ -45,6 +43,7 @@ This data shows the bigger the city, the more drivers you will have to increase 
   
   * Rural: 78
 ![Total Number of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig4.png)
+This data shows the bigger the city, the more drivers you will have to increase revenue.
 
 *** Average fare per ride for each city type:**
   
