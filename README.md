@@ -50,6 +50,7 @@ Analysis of Pyber Ride-Share data shows:
 ![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
 ---------------------------------------
+# Conclusion
 
 ![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
 
