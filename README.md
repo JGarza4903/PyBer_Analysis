@@ -4,9 +4,9 @@
 Analyze data from Pyber ride sharing company to visualize data pints gathered over a course of several months.
 
 ## Resources
-***Python***
+**Python**
 * Pandas library
 * Matplotlib library
 
-***Stack Overflow***
+**Stack Overflow**
 ***Youtube***
