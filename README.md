@@ -31,8 +31,6 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 ## Summary
 Analysis of Pyber Ride-Share data shows:
 
-![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
-
 * Total amount of rides: 2,735
 
 ![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
@@ -53,5 +51,5 @@ Analysis of Pyber Ride-Share data shows:
 
 ---------------------------------------
 
-* **
+![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
 
