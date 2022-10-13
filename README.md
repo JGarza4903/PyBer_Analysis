@@ -17,17 +17,6 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 * Percentage of total rides.
 * Percentage of total drivers.
 
-## Resources
-**Python** 3.10.7
-* Pandas library
-* Matplotlib library
-
-**Stack Overflow**
-
-**Youtube**
-
-**Visual Studio Code** 1.71.2
-
 ## Summary
 Analysis of Pyber Ride-Share data shows:
 
@@ -53,7 +42,20 @@ Analysis of Pyber Ride-Share data shows:
 ## Conclusion
 
 ![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
-Based on the data gathered, we can tell the average fare price is higher in Rural areas because the demand is not as high. In bigger cities, there are more chances of getting a driver to takr someone from pint A to point B which means the average price will go down.
+
+Based on the data gathered, we can tell the average fare price is higher in Rural areas because the demand is not as high. In bigger cities, there are more chances of getting a driver to take someone from point A to point B which means the average price will go down.
 
 If you wish for business to operate at successfully, stick to the bigger city types for revenue.
+
+## Resources
+**Python** 3.10.7
+* Pandas library
+* Matplotlib library
+
+**Stack Overflow**
+
+**Youtube**
+
+**Visual Studio Code** 1.71.2
+
 
