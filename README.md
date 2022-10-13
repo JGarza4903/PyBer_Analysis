@@ -33,7 +33,7 @@ Analysis of Pyber Ride-Share data shows:
 * Total amount of rides: 2,735
 * Total amount of drivers per city type: 
 
-  *Urban: 2,405
+  Urban: 2,405
   
   Suburban: 490
   
