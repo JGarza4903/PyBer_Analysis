@@ -44,7 +44,7 @@ Analysis of Pyber Ride-Share data shows:
   * Rural: 78
 ---------------------------------------
 
-*** Average fare per ride for each city type:**
+* **Average fare per ride for each city type:**
 
 ![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
