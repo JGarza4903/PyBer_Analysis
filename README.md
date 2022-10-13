@@ -18,9 +18,10 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 * Percentage of total drivers.
 
 ## Resources
-**Python**
+**Python** 3.10.7
 * Pandas library
 * Matplotlib library
 
 **Stack Overflow**
-***Youtube***
+**Youtube**
+**Visual Studio Code** 1.71.2
