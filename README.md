@@ -47,6 +47,9 @@ Based on the data gathered, we can tell the average fare price is higher in Rura
 
 If you wish for business to operate at successfully, stick to the bigger city types for revenue.
 
+To look at data gathering and creation of plots, [click here](https://github.com/JGarza4903/PyBer_Analysis/blob/main/PyBer.ipynb)
+To look at the final challenge, [click here](https://github.com/JGarza4903/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+
 ## Challenge Overview
 
 The goal of this project was to learn how to drill down into data and gather data related to specific lists or dictionaries and use that data to create a visualization in the form of a bar grph, line graph, scatter plot and pie graphs.
