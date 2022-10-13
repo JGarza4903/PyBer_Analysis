@@ -38,7 +38,7 @@ Analysis of Pyber Ride-Share data shows:
 
 ![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
----------------------------------------
+
 ## Conclusion
 
 ![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
@@ -46,6 +46,20 @@ Analysis of Pyber Ride-Share data shows:
 Based on the data gathered, we can tell the average fare price is higher in Rural areas because the demand is not as high. In bigger cities, there are more chances of getting a driver to take someone from point A to point B which means the average price will go down.
 
 If you wish for business to operate at successfully, stick to the bigger city types for revenue.
+
+## Challenge Overview
+
+The goal of this project was to learn how to drill down into data and gather data related to specific lists or dictionaries and use that data to create a visualization in the form of a bar grph, line graph, scatter plot and pie graphs.
+
+### Topics experienced
+* Filtering dataframes to view specific data
+* Plotting dataframes from filtered data
+* use of imports to import libraries from Python
+
+### Outcomes
+* Better understanding of how pandas integrates with other libraries such as matplotlib.
+* Need to focus on proper use and syntax for groupby functions.
+* Knowledge of which visualization to use for certain data sets.
 
 ## Resources
 **Python** 3.10.7
