@@ -50,7 +50,10 @@ Analysis of Pyber Ride-Share data shows:
 ![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
 ---------------------------------------
-# Conclusion
+## Conclusion
 
 ![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
+Based on the data gathered, we can tell the average fare price is higher in Rural areas because the demand is not as high. In bigger cities, there are more chances of getting a driver to takr someone from pint A to point B which means the average price will go down.
+
+If you wish for business to operate at successfully, stick to the bigger city types for revenue.
 
