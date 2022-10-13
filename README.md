@@ -7,12 +7,12 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 * Average fares for each city type.
 * Total number of drivers for each city type.
 
-2. Create Box and Whisker plots to visualize gathered data and determine if there are any outliers.
+2. Create Box and Whisker plots to visualize gathered data and determine if there are any outliers for the following:.
 * Number of fares for each city type
 * Fares for each city type
 * Number of drivers per city type
 
-3. Create pie charts that visualize data against city types.
+3. Create pie charts that visualize data against city types for the following:.
 * Percentage of total fares.
 * Percentage of total rides.
 * Percentage of total drivers.
@@ -30,6 +30,9 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 
 ## Summary
 Analysis of Pyber Ride-Share data shows:
+
+![Pyber Summary - Total Fare by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Pyber-fare_summary.png)
+
 * Total amount of rides: 2,735
 
 ![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
@@ -47,4 +50,8 @@ Analysis of Pyber Ride-Share data shows:
 * **Average fare per ride for each city type:**
 
 ![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
+
+---------------------------------------
+
+* **
 
