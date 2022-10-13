@@ -47,4 +47,5 @@ Analysis of Pyber Ride-Share data shows:
 *** Average fare per ride for each city type:**
 
 ![Percentage of Total Fares by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig5.png)
+![Fare($) vs City Types](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
