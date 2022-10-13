@@ -33,18 +33,19 @@ Analysis of Pyber Ride-Share data shows:
 * Total amount of rides: 2,735
 
 ![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
-* Total amount of drivers per city type: 
+
+This data shows the bigger the city, the more drivers you will have to increase revenue.
+
+*** Total amount of drivers per city type: **
 
   * Urban: 2,405
   
   * Suburban: 490
   
   * Rural: 78
+![Total Number of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig4.png)
 
-
-This data shows the bigger the city, the more drivers you will have to increase revenue.
-
-* Average fare per ride for each city type:
+*** Average fare per ride for each city type:**
   
   * Urban: $24.53
 
