@@ -23,5 +23,7 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 * Matplotlib library
 
 **Stack Overflow**
+
 **Youtube**
+
 **Visual Studio Code** 1.71.2
