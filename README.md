@@ -38,3 +38,11 @@ Analysis of Pyber Ride-Share data shows:
   * Suburban: 490
   
   * Rural: 78
+
+* Average fare per ride for each city type:
+  
+  * Urban: $24.53
+
+  * Suburban: $30.97
+
+  * Rural: $34.62
