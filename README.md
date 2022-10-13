@@ -32,14 +32,13 @@ Analyze data from Pyber ride sharing company to visualize data points gathered o
 Analysis of Pyber Ride-Share data shows:
 * Total amount of rides: 2,735
 * Total amount of drivers per city type: 
-
+![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
   * Urban: 2,405
   
   * Suburban: 490
   
   * Rural: 78
 
-![Total Amount of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 This data shows the bigger the city, the more drivers you will have to increase revenue.
 
