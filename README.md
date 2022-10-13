@@ -42,13 +42,9 @@ Analysis of Pyber Ride-Share data shows:
   * Suburban: 490
   
   * Rural: 78
-![Total Number of Drivers per City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig4.png)
-This data shows the bigger the city, the more drivers you will have to increase revenue.
+---------------------------------------
 
 *** Average fare per ride for each city type:**
-  
-  * Urban: $24.53
 
-  * Suburban: $30.97
+![Percentage of Total Fares by City Type](https://github.com/JGarza4903/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 
-  * Rural: $34.62
