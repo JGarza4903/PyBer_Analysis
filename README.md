@@ -36,6 +36,7 @@ Analysis of Pyber Ride-Share data shows:
 
 This data shows the bigger the city, the more drivers you will have to increase revenue.
 
+----------------------------------------
 * **Total amount of drivers per city type:**
 
   * Urban: 2,405
